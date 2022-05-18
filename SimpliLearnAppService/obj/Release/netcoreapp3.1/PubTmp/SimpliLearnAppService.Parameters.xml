@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AZ204WebApp4646" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\PXD8Q9B\\OneDrive\ -\ The\ Home\ Depot\\Desktop\\az204\\Lab2\\SimpliLearnAppService\\SimpliLearnAppService\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
